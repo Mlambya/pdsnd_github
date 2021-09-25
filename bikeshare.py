@@ -31,7 +31,6 @@ def get_filters():
         except:
             print('Please choose from the list')
                         
-            print('You have chosen ' + city)
 
     """ To get user input for month """
     
