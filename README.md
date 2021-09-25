@@ -4,13 +4,15 @@
 21 September 2021
 
 ### Project Title
-Replace the Project Title
+Post your work on GitHub
 
 ### Description
-Describe what your project is about and what it does
+This project investigates or explore information about bike share systems on Chicago, New York City, and Washington.
 
 ### Files used
-Include the files used
+new_york_city.csv
+chicago.csv
+washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
