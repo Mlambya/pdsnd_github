@@ -41,7 +41,6 @@ def get_filters():
         except:        
             print('Please choose from the list')
             
-            print('You have chosen ' + month)
 
     """ To get user input for day of week (all, monday, tuesday, ... sunday)"""
     
@@ -54,7 +53,6 @@ def get_filters():
             print('Please choose from the list')
         
                 
-            print('You have chosen ' + day)
 
     print('-'*40)
     
